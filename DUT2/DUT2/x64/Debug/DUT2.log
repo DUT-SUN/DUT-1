@@ -1,0 +1,9 @@
+﻿  eda4.c
+C:\Users\lenovo\source\repos\DUT2\DUT2\eda4.c(179,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char **”
+C:\Users\lenovo\source\repos\DUT2\DUT2\eda4.c(179,9): warning C4313: “printf”: 格式字符串中的“%x”与“char **”类型的参数 1 冲突
+C:\Users\lenovo\source\repos\DUT2\DUT2\eda4.c(180,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char (*)[8]”
+C:\Users\lenovo\source\repos\DUT2\DUT2\eda4.c(180,9): warning C4313: “printf”: 格式字符串中的“%x”与“char (*)[8]”类型的参数 1 冲突
+C:\Users\lenovo\source\repos\DUT2\DUT2\eda4.c(181,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+C:\Users\lenovo\source\repos\DUT2\DUT2\eda4.c(181,9): warning C4313: “printf”: 格式字符串中的“%x”与“char *”类型的参数 1 冲突
+C:\Users\lenovo\source\repos\DUT2\DUT2\eda4.c(177,1): warning C4047: “初始化”:“char **”与“char (*)[8]”的间接级别不同
+  DUT2.vcxproj -> C:\Users\lenovo\source\repos\DUT2\x64\Debug\DUT2.exe

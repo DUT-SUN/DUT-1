@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="指针初阶.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="π.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="阶层加.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自然数e.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="e的x次幂.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="π1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求2个整数最大公约数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迭代求最大公约数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="兔子.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分数数列（类似兔子）求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组插数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="国王麦子.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组实现兔子数列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计字符数组中英文字符出现次数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组食堂满意程度调查.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组输素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组翻转.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9=3乘3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猴子掏桃.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1234不重复3位数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输数 数位求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印三角形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="记忆力游戏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="纽约.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针初阶2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组交换一虎杀2羊.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针小题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="注意1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="上楼梯.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="随意进制转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多少1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分奇偶输出二进制.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="小测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归数组逆序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eda.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eda1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eda2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eda3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eda4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="eda5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归数位求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归实现a的k次方.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="初阶结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="调试技巧.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="注意2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2顺序数组结合排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="顺序排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="年月日.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="年月日1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回文数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断2字符串是否相等.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单词个数统计（空格）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="找出二维数组每行最大的.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="用static实现1到5的阶层的快速输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串反序存放.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序对字符数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="个人注意.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="个人注意1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="玩.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美模拟strcpy.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完美模拟strlen.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="年月日.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
