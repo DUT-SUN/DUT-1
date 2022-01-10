@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="操作符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test8.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="a.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="取余运算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="改错练习1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="luosi.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="luosi2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="luosi3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="switch test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="continue.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="getchar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="for循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="动态数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="btest.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="森辉.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3次密码退出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印3倍数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两个数最大公因数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印闰年.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最大值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="打印乘法表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="加减算术题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猜数字游戏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="goto语句.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="当前时间.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="add.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="作业2.8.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ascii码表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组（正式）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组做参冒泡排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三子棋游戏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三子棋启动部件.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="不使用另一个变量交换a和b的值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组1单其余对输出单身狗.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="扫雷.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="扫雷启动部件.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="操作符详解.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="saolei.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
