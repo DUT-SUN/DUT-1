@@ -1,0 +1,38 @@
+﻿  4S.cpp
+  Book.cpp
+  intarray.cpp
+  Myset.cpp
+  Mystring.cpp
+  mystring继承.cpp
+  Rational.cpp
+  shape.cpp
+  static.cpp
+  Teacher.cpp
+  Time.cpp
+  yushu.cpp
+  Date.cpp
+  作业2.cpp
+  图书馆.cpp
+  模板.cpp
+C:\Users\lenovo\source\repos\DUT-C++1\DUT-C++1\模板.cpp(18,18): error C2668: “max”: 对重载函数的调用不明确
+C:\Users\lenovo\source\repos\DUT-C++1\DUT-C++1\模板.cpp(6,3): message : 可能是“T max<int>(T,T)”
+          with
+          [
+              T=int
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41,82): message : 或    “const _Ty &std::max<int>(const _Ty &,const _Ty &) noexcept(<expr>)”
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\lenovo\source\repos\DUT-C++1\DUT-C++1\模板.cpp(18,18): message : 尝试匹配参数列表“(int, int)”时
+  玉兰卡.cpp
+  类.cpp
+  继承.cpp
+  继承IntArray.cpp
+  正在编译...
+  计算器.cpp
+  象棋.cpp
+  象棋启动部件.cpp
+  运算符重载1.cpp
+  逗号重载.cpp
